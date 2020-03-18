@@ -69,3 +69,36 @@ When an item with OSS software is delivered to another party, information relate
 -   経営者・管理職:OSS を適切に扱うには社内でのチーム作り、組織作りが重要になり ます。また、支援するソフトウェアツールを導入するなどの投資が必要になることも あります。
 
 > (번역 필요)
+
+## Definition of OSS
+It is not easy to answer precisely “What is OSS?”. Differ- ent people have different answers. However, most people would agree with the following: 
+
+OSS is software for which the source code is provided. And the copyright holder allows others to use, inspect, modify, and share the software.
+
+## OSS の定義 
+「OSS とは何か?」という問いに正確に答えるのはそれほど簡単で はありません。なぜなら、すべての人から完全にコンセンサスが 得られたものは存在しないからです。しかし、一定の範囲での共 通認識はあります。以下のようなものです。 
+
+オープンソースソフトウェア(OSS)とは、著作権者からいち いち利用許諾を得る手続きを経なくても、著作権者があなた に対して一定の条件に従うことで自由に利用し、改変し、配布 し、かつ無償で使えるようにしたもの。
+
+> (번역 필요)
+
+## Examples of OSS
+
+Linux is probably the most widely known example of Open Source Software. An Operating System (OS) is software that is designed to provide a platform for other software. Linux is one such operating system. Linux is everywhere. It is incorporated into almost every major computing system, including super computers, stock exchange servers, Internet servers, smartphones using the Android software stack, consumer electronics products, automobiles, and industrial equipment. Linux supports a large portion of the world’s core technological infrastructure.
+
+## OSS の具体例  
+代表的な OSS の例を挙げるとすると、その筆頭は Linux です。コ ンピュータシステムを構築するための基盤となるソフトウェアとし てオペレーティングシステム(OS)と呼ばれるものがあります。 Linux は代表的な OS のひとつです。利用されている領域も極め て広範で、ほぼすべてのスーパーコンピュータで使われています。 世界中の主な証券取引所のサーバーシステムも Linux で稼働し て い ま す 。 さ ま ざ ま な イ ン タ ー ネ ット サ ー バ ー 、 A n d r o i d を 搭 載 したスマートフォン、デジタルテレビなどの家電製品、さらには産 業システム、自動車などにも搭載されて、社会システムを支えて います。
+
+> (번역 필요)
+
+Linux has been developed through the collaboration of tens of thousands of developers from around the world. Linux development continues actively every day. Anyone can freely use, modify and distribute Linux, provided they abide by the conditions of the license that the Linux developers have chosen. It is very important that companies that use Linux understand and comply with the license terms for Linux.
+
+Linux は世界中から数万人とも言われる開発者が参集し、それぞ れの献身的な貢献によって作られています。Linux の開発は今も 活発に行われています。私たちはこのような開発者が生み出した 成果物を開発者たちが提示するライセンス条件に従うことで無償 で入手し、自由に改変し、また無償で自由に配布できます。ライ センス条件を適切に理解し、実施すべきなのは言うまでもありま せん。
+
+> (번역 필요)
+
+In addition to Linux, there are a huge number of other OSS projects. These include the Apache project used for HTTP servers, the widely used compiler GNU Compiler Collection (GCC), and the Eclipse integrated development environment, to name just a few.
+
+Linux以外にも、たとえばHTTPサーバーとして有名なApache HTTP Server、コンパイラとして広く使われているGNU Com- piler Collection(GCC)、ソフトウェア開発支援ツールの Eclipse など、まさに星の数ほど OSS は世の中に流通しています。
+
+> (번역 필요)
