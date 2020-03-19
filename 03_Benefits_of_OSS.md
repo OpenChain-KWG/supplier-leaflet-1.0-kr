@@ -48,7 +48,7 @@ OSS の配布につながる例をいくつか挙げておきます。い�
 
 > (번역 필요 / 담당자 :   )
 
-1.  One way to distribute OSS is to develop a product using an SDK (software development kit) provided by a semiconductor vendor. If OSS that is included in the SDK is incorporated into a product during development, then this means that the semiconductor vendor is distributing OSS via inclusion in the SDK, and the product developer is distributing OSS via inclusion in the product. In this case, the product vendor has responsibilities to fulfill to comply with the license. But they are dependent on the semiconductor vendor. If the semiconductor vendor does not provide appropriate information about the OSS included in the SDK, the product vendor cannot comply with the OSS license.
+1.One way to distribute OSS is to develop a product using an SDK (software development kit) provided by a semiconductor vendor. If OSS that is included in the SDK is incorporated into a product during development, then this means that the semiconductor vendor is distributing OSS via inclusion in the SDK, and the product developer is distributing OSS via inclusion in the product. In this case, the product vendor has responsibilities to fulfill to comply with the license. But they are dependent on the semiconductor vendor. If the semiconductor vendor does not provide appropriate information about the OSS included in the SDK, the product vendor cannot comply with the OSS license.
 
 1.半導体企業から提供されたソフトウェア開発キット (SDK)を利用して製品開発を行う
 
@@ -56,7 +56,7 @@ SDK の中に OSS が含まれ、製品の中に組み込まれるのだ�
 
 > (번역 필요 / 담당자 :   )
     
-2.  Another way that OSS might be distributed is when an ODM or OEM is entrusted with the design and development of a product for manufacturers. The ODM or OEM may incorporate OSS into the product, which the product distributor needs to know about.
+2.Another way that OSS might be distributed is when an ODM or OEM is entrusted with the design and development of a product for manufacturers. The ODM or OEM may incorporate OSS into the product, which the product distributor needs to know about.
     
 Even though an OEM or ODM made the product, the brand owner of the product distributes the OSS incorporated into the product. The brand owner is required to comply with the OSS license. If the ODM or OEM manufacturer does not provide appropriate information about OSS, the brand owner of the product cannot comply with the OSS license.
 
@@ -68,7 +68,7 @@ Even though an OEM or ODM made the product, the brand owner of the product distr
 
 > (번역 필요 / 담당자 :   )
  
-3.  Other ways of distributing OSS include shipping a product, releasing mobile application software, or providing an update of software for a previously shipped device.
+3.Other ways of distributing OSS include shipping a product, releasing mobile application software, or providing an update of software for a previously shipped device.
     
 If OSS is included in a product, mobile application, or software update, this constitutes distribution of OSS. The entity who ships the product or releases the software is required to comply with the OSS license.
 
@@ -80,7 +80,7 @@ If OSS is included in a product, mobile application, or software update, this co
 
 > (번역 필요 / 담당자 :   )
 
-4.  JavaScript used in web pages constitutes distribution:
+4.JavaScript used in web pages constitutes distribution:
     
 An interesting case of OSS distribution may occur when a web page is transferred to a user’s machine.
     
