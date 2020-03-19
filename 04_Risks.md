@@ -7,6 +7,7 @@ Litigation by an OSS copyright holder against a company for failure to comply wi
 実際に著作権者から訴訟を受けた事案もあります。
 
 > 번역 필요
+> 
 > 담당자 : 
 
 Unfortunately, it has occurred that failure to comply with the OSS license resulted in litigation against the user (and distributor) by the OSS copyright holders. In at least one case, a judgement required the defendant to suspend the shipment of their products containing OSS.
@@ -31,6 +32,7 @@ In every case, it was the distributor’s failure to comply with the OSS license
 -   それぞれの OSS に付されたライセンスが配布時に、どのような事柄を求めているの かを的確に理解し、確実に実施すること
 
 > 번역 필요
+> 
 > 담당자 : 
 
 ## What is lost in litigation
@@ -50,6 +52,7 @@ A settlement or a legal judgement may require payment of money or a fine. In the
 和解や判決に伴い、賠償金の支払いを求められるかもしれません。 せっかくの 製 品 の 出 荷 を 差し 止 めら れ てしまうような ダ メ ー ジ を 受ける可能性も排除できません。
 
 > 번역 필요
+> 
 > 담당자 : 
 
 ## Building a good relationship with the OSS community
@@ -74,6 +77,7 @@ OSS 開発者コミュニティーと信頼関係を築くことができ�
 昨今のソフトウェアシステムは大規模化・高度化の一途をたどり、 実に複雑に絡み合っています。このため、いくらしっかりと OSS に対する対応を進めていてもどうしてもミスをしてしまう可能性 はゼロではありません。このことに対して、OSS 開発者コミュニ ティーによっては一定の理解を示しているケースも見受けられま す。あなたがそのような人々から信頼を得ているのであれば、万 が一ミスをしてしまっても、まずは温和にその旨をコミュニティー が指摘してくれるかもしれません。
 
 > 번역 필요
+> 
 > 담당자 : 
 
 ## Contributing to OSS communities
@@ -85,4 +89,5 @@ There are many ways to contribute to OSS communities: proposing bugfixes and new
 コミュニティーに貢献する方法は多彩です。OSS の障害を対 応したり機能追加をするような技術的な貢献は誰でも思いつく で しょう 。 ほ か に も コ ミ ュ ニ テ ィ ー の 持 つド キ ュ メ ント を 翻 訳 す る、コミュニティーの人々が互いに出会える場所をしつらえるな ども貢献として受け取っていただけるでしょう。また The Linux Foundation など OSS コミュニティーと関係が深い団体に参加 することも選択肢のひとつとして挙げることができます。
 
 > 번역 필요
+> 
 > 담당자 : 
