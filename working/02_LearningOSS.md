@@ -43,32 +43,32 @@ When an item with OSS software is delivered to another party, information relate
 -   Developers and engineers: In addition to software developers, hardware engineers are deeply involved in developing device driver software, board support packages (BSP) and software development kits (SDKs) for their hardware.
 -   エンジニア:デバイスドライバーや開発支援ボードサポートパッケージ(BSP)、ソフ トウェア開発支援キット(SDK)の開発のように、現代のソフトウェア開発はソフトウェ  アエンジニアだけでなく、ハードウェアエンジニアも深く関わっています。
 
-> (번역 필요. 담당자 : ) 
+> (번역 필요. 담당자 : 홍종호) 
     
 -   Procurement personnel: OSS may be included in deliverables from the supply chain, such as software, hardware modules, SoCs, semiconductor products, and products designed and developed by ODM/OEM manufacturers.
 -   調達担当者:社外からソフトウェアを調達する場合はもちろんのこと、部品、半導体 デバイス、半完成品、ODM※や OEM※によって完成品を調達する際にも調達品の 中に OSS が含まれている可能性が十分にあります。
 
-> (번역 필요. 담당자 : ) 
+> (번역 필요. 담당자 : 홍종호) 
     
 -   Sales personnel: Sales personnel are required to understand the reasons that customers need the OSS-related information, including copyright and license information.
 -   営業担当者:営業担当者は、顧客が必要としている OSS 情報はどのようなものな のか、なぜそのような情報が求められているのかを適切に把握できなければなりま せん。
 
-> (번역 필요. 담당자 : ) 
+> (번역 필요. 담당자 : 홍종호) 
     
 -   Quality assurance personnel: OSS that is included in a product may affect its quality or introduce bugs. QA personnel need to be aware of such issues.
 -   品質管理担当者:OSS が製品などの品質に大きく影響を与える可能性もあります。
 
-> (번역 필요. 담당자 : ) 
+> (번역 필요. 담당자 : 홍종호) 
 
 -   Legal/Intellectual Property personnel: Legal and intellectual property personnel are required to know the laws, legal precedents, and legal remedies that relate to OSS license interpretation and adherence.
 - 法務・知財担当者:法務・知財担当者が OSS に付けられたライセンスを適切に理解 するには、OSS だけでなくどのような法律・条例が関連するのか知っておく必要があ ります。また、ソフトウェア技術についての一定の理解が必要です。
 
-> (번역 필요. 담당자 : ) 
+> (번역 필요. 담당자 : 홍종호) 
 
 -   Executives and managers: Executives and managers develop strategy around using, contributing to, and distributing Open Source; build teams to promote OSS usage; and oversee OSS processes, and investment in required software tools.
 -   経営者・管理職:OSS を適切に扱うには社内でのチーム作り、組織作りが重要になり ます。また、支援するソフトウェアツールを導入するなどの投資が必要になることも あります。
 
-> (번역 필요. 담당자 : ) 
+> (번역 필요. 담당자 : 홍종호) 
 
 ## Definition of OSS
 It is not easy to answer precisely “What is OSS?”. Differ- ent people have different answers. However, most people would agree with the following: 
@@ -80,7 +80,7 @@ OSS is software for which the source code is provided. And the copyright holder 
 
 オープンソースソフトウェア(OSS)とは、著作権者からいち いち利用許諾を得る手続きを経なくても、著作権者があなた に対して一定の条件に従うことで自由に利用し、改変し、配布 し、かつ無償で使えるようにしたもの。
 
-> (번역 필요. 담당자 : ) 
+> (번역 필요. 담당자 : 홍종호) 
 
 ## Examples of OSS
 
@@ -89,19 +89,19 @@ Linux is probably the most widely known example of Open Source Software. An Oper
 ## OSS の具体例  
 代表的な OSS の例を挙げるとすると、その筆頭は Linux です。コ ンピュータシステムを構築するための基盤となるソフトウェアとし てオペレーティングシステム(OS)と呼ばれるものがあります。 Linux は代表的な OS のひとつです。利用されている領域も極め て広範で、ほぼすべてのスーパーコンピュータで使われています。 世界中の主な証券取引所のサーバーシステムも Linux で稼働し て い ま す 。 さ ま ざ ま な イ ン タ ー ネ ット サ ー バ ー 、 A n d r o i d を 搭 載 したスマートフォン、デジタルテレビなどの家電製品、さらには産 業システム、自動車などにも搭載されて、社会システムを支えて います。
 
-> (번역 필요. 담당자 : ) 
+> (번역 필요. 담당자 : 홍종호) 
 
 Linux has been developed through the collaboration of tens of thousands of developers from around the world. Linux development continues actively every day. Anyone can freely use, modify and distribute Linux, provided they abide by the conditions of the license that the Linux developers have chosen. It is very important that companies that use Linux understand and comply with the license terms for Linux.
 
 Linux は世界中から数万人とも言われる開発者が参集し、それぞ れの献身的な貢献によって作られています。Linux の開発は今も 活発に行われています。私たちはこのような開発者が生み出した 成果物を開発者たちが提示するライセンス条件に従うことで無償 で入手し、自由に改変し、また無償で自由に配布できます。ライ センス条件を適切に理解し、実施すべきなのは言うまでもありま せん。
 
-> (번역 필요. 담당자 : ) 
+> (번역 필요. 담당자 : 홍종호) 
 
 In addition to Linux, there are a huge number of other OSS projects. These include the Apache project used for HTTP servers, the widely used compiler GNU Compiler Collection (GCC), and the Eclipse integrated development environment, to name just a few.
 
 Linux以外にも、たとえばHTTPサーバーとして有名なApache HTTP Server、コンパイラとして広く使われているGNU Com- piler Collection(GCC)、ソフトウェア開発支援ツールの Eclipse など、まさに星の数ほど OSS は世の中に流通しています。
 
-> (번역 필요. 담당자 : ) 
+> (번역 필요. 담당자 : 홍종호) 
 
 ## OSS and license
 
@@ -113,13 +113,13 @@ Almost all OSS licenses disclaim liability for OSS developers. In almost all cas
 OSS は著作権者が著作権を放棄したソフトウェアではありません※。著作権者はライセンスを通して OSS の利用者に対してソフ トウェア の 利 用 を 許 諾しま す 。場 合 に よって は 、特 許 権 な ど の 利 用許諾を加えていることもあります。OSS を利用するにはライセンスに対する適切な理解は決して避けて通れないものです。
 ※ OSS が著作物として認められるか否かについての判断が必要になった場合 は弁護士などの助言を得て慎重に判断してください。
 
-> (번역 필요. 담당자 : ) 
+> (번역 필요. 담당자 : 홍종호) 
 
 Not all software is covered by copyright. If you need to judge whether a particular piece of OSS is copyrighted material or not, you should consult with a lawyer or intellectual property expert.
 
 ほとんどすべての OSS ライセンスでは OSS の開発者の責任が 免責されています。OSS の利用にあたっては利用にまつわる責 任は開発者にはなく、結果として多くの場合、責任は利用者が負 うことになります。
 
-> (번역 필요. 담당자 : ) 
+> (번역 필요. 담당자 : 홍종호) 
 
 
 ## What is granted by license (copyright)
@@ -130,7 +130,7 @@ With some OSS licenses, the copyright holder grants others the right to use or d
 
 OSS ライセンスによって、著作権者は著作物の利用に対する許 諾を OSS の利用者に与えます。利用者は利用許諾条件に従うな らば、利用するときにその都度著作権者に許諾を求める必要はあ りません。もし利用者が利用許諾条件に従わなかった場合は、著 作権者から提供された著作物を利用するにあたっての条件に違反 することとなり、著作権法上思わしくない状況になるでしょう。
 
-> (번역 필요. 담당자 : ) 
+> (번역 필요. 담당자 : 홍종호) 
 
 ## What is granted by license (patent)
 
@@ -140,7 +140,7 @@ With some OSS licenses, the copyright holder of OSS grants others the right to f
 
 ライセンスによっては、OSS の開発に関わった人や企業が持つ 特許の中に、その OSS のみで構成可能な特許がある場合は、そ れらの特許を無償かつ無条件で永続的に認めることがあります。 これはすべての OSS ライセンスで見られるわけではありませ ん。代表的なものとしてはApache LicenseやGNU General Public License(GPL)バージョン3などが挙げられます。
 
-> (번역 필요. 담당자 : ) 
+> (번역 필요. 담당자 : 홍종호) 
 
 ## Typical OSS license
 
@@ -158,4 +158,4 @@ https://opensource.org/licenses
 
 ここで認定されているライセンスで利用許諾されたソフトウェア は OSS の典型と言えます。OSI が認定したライセンス以外で利 用 許 諾 さ れ た ソ フト ウ ェ ア で も O S S と し て 扱 う の が 望 ま し い も の もあります。何が OSS にあたるのかについてはソフトウェアを配 布する人と配布される人との間でコンセンサスを得るようにして ください。
 
-> (번역 필요. 담당자 : )
+> (번역 필요. 담당자 : 홍종호)
