@@ -38,37 +38,37 @@ When an item with OSS software is delivered to another party, information relate
 
 使用しているOSSに関する情報は、ソフトウェア開発成果物とともに提供する必要があります。このため、以下に挙げる人たちはOSSおよびOSSの調達・運用について正しく理解しておく必要があります。本冊子を通じてOSSの基本を身につけてください。
 
-> 사용하고있는 OSS에 대한 정보는 소프트웨어 개발 성과물과 함께 제공해야합니다. 따라서 다음과 같은 직원들은 OSS 및 OSS를 입수하고 배포할때 따라야할 절차에 대해 제대로 이해하고 있어야합니다.
+> 사용하고 있는 OSS에 대한 정보는 소프트웨어 개발 성과물과 함께 제공해야합니다. 따라서 다음과 같은 직원들은 OSS 및 OSS를 입수하고 배포할 때 따라야할 절차에 대해 제대로 이해하고 있어야 합니다.
 
 -   Developers and engineers: In addition to software developers, hardware engineers are deeply involved in developing device driver software, board support packages (BSP) and software development kits (SDKs) for their hardware.
 -   エンジニア:デバイスドライバーや開発支援ボードサポートパッケージ(BSP)、ソフ トウェア開発支援キット(SDK)の開発のように、現代のソフトウェア開発はソフトウェ  アエンジニアだけでなく、ハードウェアエンジニアも深く関わっています。
 
-> (번역 필요. 담당자 : 홍종호) 
+> - 개발자,엔지니어 : 개발용 디바이스 드라이버 소프트웨어, 보드 지원 패키지(BSP), 소프트웨어 개발 키트(SDK)의 개발처럼 현대의 소프트웨어 개발은 소프트웨어 엔지니어뿐만 아니라 하드웨어 엔지니어와도 깊은 관련이 있습니다.
     
 -   Procurement personnel: OSS may be included in deliverables from the supply chain, such as software, hardware modules, SoCs, semiconductor products, and products designed and developed by ODM/OEM manufacturers.
 -   調達担当者:社外からソフトウェアを調達する場合はもちろんのこと、部品、半導体 デバイス、半完成品、ODM※や OEM※によって完成品を調達する際にも調達品の 中に OSS が含まれている可能性が十分にあります。
 
-> (번역 필요. 담당자 : 홍종호) 
+> - 입수 담당자 : 외부에서 소프트웨어를 입수하는 경우는 물론, 부품, 반도체장치, 반제품, ODM/OEM을 통해 완제품을 입수할 때에도 입수 제품에 OSS가 포함될 가능성이 충분히 있습니다.
     
 -   Sales personnel: Sales personnel are required to understand the reasons that customers need the OSS-related information, including copyright and license information.
 -   営業担当者:営業担当者は、顧客が必要としている OSS 情報はどのようなものな のか、なぜそのような情報が求められているのかを適切に把握できなければなりま せん。
 
-> (번역 필요. 담당자 : 홍종호) 
+> - 영업 담당자 : 영업 담당자는 고객이 필요로 하는 저작권과 라이선스 정보 포함된 OSS 정보는 무엇인지, 왜 그러한 정보가 요구되고 있는지를 정확히 파악하여야 합니다.
     
 -   Quality assurance personnel: OSS that is included in a product may affect its quality or introduce bugs. QA personnel need to be aware of such issues.
 -   品質管理担当者:OSS が製品などの品質に大きく影響を与える可能性もあります。
 
-> (번역 필요. 담당자 : 홍종호) 
+> - 품질 관리 담당자 : OSS가 제품 등의 품질에 크게 영향을 미칠 수 있습니다.
 
 -   Legal/Intellectual Property personnel: Legal and intellectual property personnel are required to know the laws, legal precedents, and legal remedies that relate to OSS license interpretation and adherence.
 - 法務・知財担当者:法務・知財担当者が OSS に付けられたライセンスを適切に理解 するには、OSS だけでなくどのような法律・条例が関連するのか知っておく必要があ ります。また、ソフトウェア技術についての一定の理解が必要です。
 
-> (번역 필요. 담당자 : 홍종호) 
+> 법무/지적재산권 담당자 : 법무 · 지적재산권 담당자가 OSS에 붙은 라이센스를 제대로 이해하려면 OSS뿐만 아니라 어떤 법률과 조례가 관련되어 있는지 알아야 합니다. 또한 소프트웨어 기술에 대한 기본적인 이해가 합니다.
 
 -   Executives and managers: Executives and managers develop strategy around using, contributing to, and distributing Open Source; build teams to promote OSS usage; and oversee OSS processes, and investment in required software tools.
 -   経営者・管理職:OSS を適切に扱うには社内でのチーム作り、組織作りが重要になり ます。また、支援するソフトウェアツールを導入するなどの投資が必要になることも あります。
 
-> (번역 필요. 담당자 : 홍종호) 
+> 경영자/관리자 : OSS를 적절하게 처리하기 위해 사내에서 관련 팀조직을 만드는 것이 중요합니다. 또한 OSS관련 소프트웨어 도구를 도입하는 등의 투자가 필요할 수도 있습니다. 
 
 ## Definition of OSS
 It is not easy to answer precisely “What is OSS?”. Differ- ent people have different answers. However, most people would agree with the following: 
@@ -80,7 +80,10 @@ OSS is software for which the source code is provided. And the copyright holder 
 
 オープンソースソフトウェア(OSS)とは、著作権者からいち いち利用許諾を得る手続きを経なくても、著作権者があなた に対して一定の条件に従うことで自由に利用し、改変し、配布 し、かつ無償で使えるようにしたもの。
 
-> (번역 필요. 담당자 : 홍종호) 
+> ## OSS의 정의
+"OSS 란 무엇인가?" 라는 질문에 대해 정확히 대답하는 것은 그리 간단하지 않습니다. 왜냐하면 모든 사람으로부터 완전히 합의가 얻은 것은 정의는 존재하지 않기 때문입니다. 그러나 일정한 범위안에서 공통적으로 동의하는 사항은 존재하며 다음과 같습니다.
+
+오픈소스 소프트웨어(OSS)는 저작권 소유자로부터 사용 허락을 얻는 절차를 거쳐 않고도, 저작권자가 사용자에게 일정한 조건을 준수함으로써 자유롭게 이용, 수정 및 배포를 무상으로 사용할 수 있도록 한 것입니다.
 
 ## Examples of OSS
 
@@ -89,7 +92,8 @@ Linux is probably the most widely known example of Open Source Software. An Oper
 ## OSS の具体例  
 代表的な OSS の例を挙げるとすると、その筆頭は Linux です。コ ンピュータシステムを構築するための基盤となるソフトウェアとし てオペレーティングシステム(OS)と呼ばれるものがあります。 Linux は代表的な OS のひとつです。利用されている領域も極め て広範で、ほぼすべてのスーパーコンピュータで使われています。 世界中の主な証券取引所のサーバーシステムも Linux で稼働し て い ま す 。 さ ま ざ ま な イ ン タ ー ネ ット サ ー バ ー 、 A n d r o i d を 搭 載 したスマートフォン、デジタルテレビなどの家電製品、さらには産 業システム、自動車などにも搭載されて、社会システムを支えて います。
 
-> (번역 필요. 담당자 : 홍종호) 
+> ## OSS의 구체적인 예
+대표적인 OSS의 예제 중 제일 유명한 것은 Linux입니다. 컴퓨터 시스템을 구축을 위한 기반이 되는 소프트웨어 운영 체제(OS)입니다. Linux는 대표적인 OS 중 하나입니다. Linux는 사용되는 영역도 매우 광범위하고 거의 모든 슈퍼 컴퓨터에서 사용되고 있습니다. 전세계 주요 증권거래소의 서버 시스템은 Linux OS에서 실행되고 있습니다. 다양한 인터넷 서버, Android를 탑재한 스마트폰, 디지털 TV 등 가전 제품, 심지어 산업 시스템, 자동차 등에 탑재되어 전세계적 시스템으로 사용되고 있습니다.
 
 Linux has been developed through the collaboration of tens of thousands of developers from around the world. Linux development continues actively every day. Anyone can freely use, modify and distribute Linux, provided they abide by the conditions of the license that the Linux developers have chosen. It is very important that companies that use Linux understand and comply with the license terms for Linux.
 
