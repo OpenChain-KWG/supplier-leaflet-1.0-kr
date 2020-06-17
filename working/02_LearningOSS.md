@@ -63,12 +63,12 @@ When an item with OSS software is delivered to another party, information relate
 -   Legal/Intellectual Property personnel: Legal and intellectual property personnel are required to know the laws, legal precedents, and legal remedies that relate to OSS license interpretation and adherence.
 - 法務・知財担当者:法務・知財担当者が OSS に付けられたライセンスを適切に理解 するには、OSS だけでなくどのような法律・条例が関連するのか知っておく必要があ ります。また、ソフトウェア技術についての一定の理解が必要です。
 
-> 법무/지적재산권 담당자 : 법무 · 지적재산권 담당자가 OSS에 붙은 라이센스를 제대로 이해하려면 OSS뿐만 아니라 어떤 법률과 조례가 관련되어 있는지 알아야 합니다. 또한 소프트웨어 기술에 대한 기본적인 이해가 합니다.
+> - 법무/지적재산권 담당자 : 법무 · 지적재산권 담당자가 OSS에 붙은 라이센스를 제대로 이해하려면 OSS뿐만 아니라 어떤 법률과 조례가 관련되어 있는지 알아야 합니다. 또한 소프트웨어 기술에 대한 기본적인 이해가 합니다.
 
 -   Executives and managers: Executives and managers develop strategy around using, contributing to, and distributing Open Source; build teams to promote OSS usage; and oversee OSS processes, and investment in required software tools.
 -   経営者・管理職:OSS を適切に扱うには社内でのチーム作り、組織作りが重要になり ます。また、支援するソフトウェアツールを導入するなどの投資が必要になることも あります。
 
-> 경영자/관리자 : OSS를 적절하게 처리하기 위해 사내에서 관련 팀조직을 만드는 것이 중요합니다. 또한 OSS관련 소프트웨어 도구를 도입하는 등의 투자가 필요할 수도 있습니다. 
+> - 경영자/관리자 : OSS를 적절하게 처리하기 위해 사내에서 관련 팀조직을 만드는 것이 중요합니다. 또한 OSS관련 소프트웨어 도구를 도입하는 등의 투자가 필요할 수도 있습니다. 
 
 ## Definition of OSS
 It is not easy to answer precisely “What is OSS?”. Differ- ent people have different answers. However, most people would agree with the following: 
