@@ -99,13 +99,13 @@ Linux has been developed through the collaboration of tens of thousands of devel
 
 Linux は世界中から数万人とも言われる開発者が参集し、それぞ れの献身的な貢献によって作られています。Linux の開発は今も 活発に行われています。私たちはこのような開発者が生み出した 成果物を開発者たちが提示するライセンス条件に従うことで無償 で入手し、自由に改変し、また無償で自由に配布できます。ライ センス条件を適切に理解し、実施すべきなのは言うまでもありま せん。
 
-> (번역 필요. 담당자 : 홍종호) 
+> Linux는 전세계에서 수만명이 넘는 개발자들이 참여하여 헌신적인 기여에 의해 만들어지고 있습니다. Linux의 개발은 지금도 활발하게 이루어지고 있습니다. 우리는 이러한 개발자가 만들어 낸 성과물을 개발자들이 제공하는 라이선스 조건을 준수하여 무료로 제공하고 자유롭게 수정하고, 또한 무료로 자유롭게 배포할 수 있습니다. 라이센스 조항을 제대로 이해하고 준수하는 것은 매우 중요합니다.
 
 In addition to Linux, there are a huge number of other OSS projects. These include the Apache project used for HTTP servers, the widely used compiler GNU Compiler Collection (GCC), and the Eclipse integrated development environment, to name just a few.
 
 Linux以外にも、たとえばHTTPサーバーとして有名なApache HTTP Server、コンパイラとして広く使われているGNU Com- piler Collection(GCC)、ソフトウェア開発支援ツールの Eclipse など、まさに星の数ほど OSS は世の中に流通しています。
 
-> (번역 필요. 담당자 : 홍종호) 
+> Linux 이외에도 예를 들면 HTTP 서버로 유명한 Apache HTTP Server, 컴파일러로 널리 사용되고 있는 GNU Compiler Collection (GCC), 소프트웨어 개발 지원 툴의 Eclipse 등 세상에는 다양한 OSS 프로젝트가 존재합니다.
 
 ## OSS and license
 
@@ -117,7 +117,9 @@ Almost all OSS licenses disclaim liability for OSS developers. In almost all cas
 OSS は著作権者が著作権を放棄したソフトウェアではありません※。著作権者はライセンスを通して OSS の利用者に対してソフ トウェア の 利 用 を 許 諾しま す 。場 合 に よって は 、特 許 権 な ど の 利 用許諾を加えていることもあります。OSS を利用するにはライセンスに対する適切な理解は決して避けて通れないものです。
 ※ OSS が著作物として認められるか否かについての判断が必要になった場合 は弁護士などの助言を得て慎重に判断してください。
 
-> (번역 필요. 담당자 : 홍종호) 
+> ## OSS 및 라이센스
+저작권자가 저작권을 포기하는 OSS 소프트웨어는 없습니다※. 저작권자는 라이센스를 통해 OSS의 사용자에 대해 소프트웨어 사용을 허여해야 합니다. 경우에 따라서는 특허권 등의 사용 허락 조건을 추가하는 것도 있습니다. OSS를 사용하려면 라이센스에 대한 올바른 이해가 필수적이라는 것입니다.
+※ OSS가 저작물로서 인정 여부에 대한 판단이 필요한 경우에는 변호사 등의 자문을 받아 신중하게 판단하십시오.
 
 Not all software is covered by copyright. If you need to judge whether a particular piece of OSS is copyrighted material or not, you should consult with a lawyer or intellectual property expert.
 
