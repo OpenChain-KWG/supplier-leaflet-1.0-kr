@@ -6,9 +6,8 @@ Litigation by an OSS copyright holder against a company for failure to comply wi
 # OSS 配布時に注意を怠ったときのリスク 
 実際に著作権者から訴訟を受けた事案もあります。
 
-> 번역 필요
-> 
-> 담당자 : 
+> # OSS 배포 시 주의해야 할 위험성들
+> 실제 저작권자로부터 소송을 받은 사안도 있음.
 
 Unfortunately, it has occurred that failure to comply with the OSS license resulted in litigation against the user (and distributor) by the OSS copyright holders. In at least one case, a judgement required the defendant to suspend the shipment of their products containing OSS.
 
@@ -18,7 +17,7 @@ In December of 2009 there was a lawsuit related to Open Source software called �
 
 たとえば、2009年12月には組み込みシステム構築で頻繁に使われるOSSであり、GPL バージョン2で利用許諾されている「BusyBox」の不適切な利用を著作権者側が訴えた 訴訟がありました。この訴訟では、一般消費者向け製品を提供する代表的な会社も含めた 1 4 社 が 被 告 と な り ま し た 。 ラ イ セ ン ス の 規 定 で は ソ ー ス コ ード の 開 示 が 義 務 づ け ら れ て い るのにもかかわらず、開示がされていないなどの不備があったというのです。多くの会社 は和解したようです。中には判決が下されて、対象となった製品の出荷の差し止めを命じ ら れ た 会 社 も あ り ま し た 。 こ の 1 4 社 の 中 に は O D M に よ っ て 開 発 し た 自 社 ブ ラ ンド の 製 品 に含まれる不備を指摘された例も含まれています。仮に ODM によって開発された製品で も、その製品にブランド名を冠して販売した事業者は当事者になるという点にも注目すべ きです。
 
-> 번역 필요
+> OSS 라이선스를 배포할 때 요구 조건을 따르지 않은 상황에서 불행히도 OSS 저작권자가 배포한 사람을 고소하는 상황이 있었고, 그 결과, 대상 제품의 출하금지 판결이 내려지게 되었습니다.
 > 
 > 담당자 : 
 
