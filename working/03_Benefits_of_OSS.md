@@ -1,6 +1,6 @@
 # What you need to do to receive the benefits of OSS
 # OSS の活用と配布は不可分の関係
-> # OSS의 활용과 배포는 떼어 놓을 수 없는 관계입니다.
+> # OSS의 활용과 배포의 불가분의 관계성
 
 When you use OSS, the most important thing to know is your obligations related to distribution of the software.
 
