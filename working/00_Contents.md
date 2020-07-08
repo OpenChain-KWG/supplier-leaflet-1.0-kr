@@ -24,6 +24,15 @@
 
 6. OSS information required to be delivered with software
 
-> 목차
-> (번역 필요)
+> # 목차
+> 1. 
 > 
+> 2.
+> 
+> 3.
+> 
+> 4.
+> 
+> 5.
+>
+> 6. 
