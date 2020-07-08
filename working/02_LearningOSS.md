@@ -3,7 +3,7 @@
 Let’s learn the basics of Open Source Software (OSS).
 # オープンソースソフトウェアについて知る
 オープンソースソフトウェア（Open Source Software、OSS）の基礎知識を 身につけましょう。
-> 오픈소스 소프트웨어에 대해 알아보기
+> # 오픈소스 소프트웨어에 대해 알아보기
 > 오픈소스 소프트웨어(Open Source Software, OSS)의 기초 지식을 습득합니다. 
 
 This pamphlet explains the following: 
