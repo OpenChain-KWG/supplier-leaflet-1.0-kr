@@ -5,3 +5,9 @@ path = "**"
 precedence = "closest"
 SPDX-FileCopyrightText = "The Linux Foundation and The OpenChain KWG Authors"
 SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = [".github/**"]
+precedence = "override"
+SPDX-FileCopyrightText = "The Linux Foundation and The OpenChain KWG Authors"
+SPDX-License-Identifier = "Apache-2.0"
